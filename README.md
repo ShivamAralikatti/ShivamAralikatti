@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an Electrical and Computer Engineering (ECE) s
 
 - **VLSI Design:** I have a strong foundation in Very Large Scale Integration, covering topics from digital circuit design to semiconductor manufacturing.
 
-- **Frontend Development:** As a tech enthusiast, I enjoy bringing designs to life on the web. My proficiency includes HTML, CSS, JavaScript, and popular frontend frameworks like React.
+- **Frontend Development:** As a tech enthusiast, I enjoy bringing designs to life on the web. My proficiency includes HTML, CSS and JavaScript.
 
 - **Data Analysis:** I love diving into datasets, extracting meaningful insights, and visualizing the results. My toolkit includes Python, pandas, NumPy, and various data visualization libraries.
 
@@ -29,7 +29,8 @@ I'm on a continuous learning journey, exploring new technologies and expanding m
 
 - LinkedIn: [Shivam Aralikatti](https://www.linkedin.com/in/shivam-aralikatti-30b495213/)
 - Email: shivamaralikatti01@gmail.com
-
+- Portfolio: https://shivamaralikatti.netlify.app/
+  
 ## 🚀 Fun Fact
 
 "Adventure trek freak by day, fiction enthusiast by night. From summiting peaks to exploring fictional worlds, I thrive on the thrill of real and imaginary adventures alike."
