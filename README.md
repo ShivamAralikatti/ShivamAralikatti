@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm an Electrical and Computer Engineering (ECE) s
 Here are some projects that showcase my skills:
 
 1. Pose Perfect: This project employs PoseNet, a pretrained CNN model for Pose estimation and correction of abnormalities of poses of the user. This model was then integrated in a self developed website along with a python based Chatbot for Help and Support.
-2. Sentiment Shaper: Executed sentiment analysis through the implementation of Keras library and datasets by machine learn-] ing techniques. Created a model to assess and comprehend sentiment in text data, contributing to enhanced understanding of user opinions and feedback.
-3. 8051 Light Automation: Developed an automated lighting control system utilizing an 8051 microcontroller. Designed to detect] changes in ambient light levels and trigger the switching of lights accordingly. It can also acts a bi- directional counter.
+2. Sentiment Shaper: Executed sentiment analysis through the implementation of Keras library and datasets by machine learning techniques. Created a model to assess and comprehend sentiment in text data, contributing to enhanced understanding of user opinions and feedback.
+3. 8051 Light Automation: Developed an automated lighting control system utilizing an 8051 microcontroller. Designed to detect changes in ambient light levels and trigger the switching of lights accordingly. It can also acts a bi- directional counter.
 4. Spotify Music Player: A sleek web app created with HTML, CSS, and JavaScript. It mirrors the Spotify interface, offering user-friendly playlist management, playback controls, and real-time song details. Explore and enjoy your favorite tracks seamlessly, and contribute or customize the player to suit your preferences. Elevate your music experience effortlessly! 🎶
 
 Feel free to explore the repositories for a closer look!
