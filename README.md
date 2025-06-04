@@ -1,38 +1,49 @@
 # Hi, I'm Shivam Aralikatti 👋
 
-Welcome to my GitHub profile! I'm an Electrical and Computer Engineering (ECE) student with a diverse skill set. I specialize in VLSI design, Frontend Development, and Data Analysis.
+Welcome to my GitHub profile! I'm an AI Analyst and recent Electronics & Communication Engineering graduate passionate about solving real-world problems using data and machine learning.
 
-## 🌐 My Expertise
+## 💼 Current Focus
 
-- **VLSI Design:** I have a strong foundation in Very Large Scale Integration, covering topics from digital circuit design to semiconductor manufacturing.
+- **AI & Data Science:** Leveraging deep learning, NLP, and statistical modeling to solve campus-level and medical domain challenges.
+- **Data Analytics:** Working on predictive analytics using biometric and mess data to improve campus operations.
+- **Applied Research:** Publishing real-world solutions in academic venues like Springer (LNNS Series 2024).
 
-- **Frontend Development:** As a tech enthusiast, I enjoy bringing designs to life on the web. My proficiency includes HTML, CSS and JavaScript.
+## 🚀 Featured Projects
 
-- **Data Analysis:** I love diving into datasets, extracting meaningful insights, and visualizing the results. My toolkit includes Python, pandas, NumPy, and various data visualization libraries.
+1. **EvalEdge: Modern Essay Evaluator**  
+   Developed an AES model using Random Forest + GloVe embeddings with MAE of 1.40.  
+   Features include grammar checks, sentiment analysis, AI-text detection, and live dashboard – trained on 2,500+ essays.
 
-## 💻 Projects
+2. **Endometrial Cancer Detection**  
+   Built a VAE + CNN based pipeline to classify histopathological images with **87.3% accuracy**, addressing class imbalance with SMOTE and cross-validation.
 
-Here are some projects that showcase my skills:
+3. **Campus Operations Analytics**  
+   - Reduced food wastage by **65%** by forecasting mess usage using time-series models.  
+   - Analyzed 10,000+ biometric logs to optimize class schedules and predict academic risk.
 
-1. Pose Perfect: This project employs PoseNet, a pretrained CNN model for Pose estimation and correction of abnormalities of poses of the user. This model was then integrated in a self developed website along with a python based Chatbot for Help and Support.
-2. Sentiment Shaper: Executed sentiment analysis through the implementation of Keras library and datasets by machine learning techniques. Created a model to assess and comprehend sentiment in text data, contributing to enhanced understanding of user opinions and feedback.
-3. 8051 Light Automation: Developed an automated lighting control system utilizing an 8051 microcontroller. Designed to detect changes in ambient light levels and trigger the switching of lights accordingly. It can also acts a bi- directional counter.
-4. Spotify Music Player: A sleek web app created with HTML, CSS, and JavaScript. It mirrors the Spotify interface, offering user-friendly playlist management, playback controls, and real-time song details. Explore and enjoy your favorite tracks seamlessly, and contribute or customize the player to suit your preferences. Elevate your music experience effortlessly! 🎶
+4. **Social Media Regulatory Analysis**  
+   Built a GNN-based NLP/CV system to classify 12,000+ posts, achieving **93.8% accuracy** in detecting misinformation and harmful content.
 
-Feel free to explore the repositories for a closer look!
+5. **Deepfake Correction via 3D Face Reconstruction**  
+   Designed a model to restore facial features from deepfake images using multi-view 2D data, recovering up to **40%** authenticity.
 
-## 📚 Learning Journey
+## 📚 Learning & Certifications
 
-I'm on a continuous learning journey, exploring new technologies and expanding my knowledge. Feel free to join me on this exciting ride!
+- **IBM AI Analyst**
+- **Advanced SQL (HackerRank)**
+- **Deep Learning & Big Data Analytics (NUS, AWS)**
+- **Agile Project Management (Coursera)**
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- LinkedIn: [Shivam Aralikatti](https://www.linkedin.com/in/shivam-aralikatti-30b495213/)
-- Email: shivamaralikatti01@gmail.com
-- Portfolio: https://shivamaralikatti.netlify.app/
-  
-## 🚀 Fun Fact
+- 🌐 Portfolio: [shivamaralikatti.netlify.app](https://shivamaralikatti.netlify.app)
+- 📧 Email: shivamaralikatti01@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shivamaralikatti](https://www.linkedin.com/in/shivamaralikatti)
 
-"Adventure trek freak by day, fiction enthusiast by night. From summiting peaks to exploring fictional worlds, I thrive on the thrill of real and imaginary adventures alike."
+## 🌟 Fun Fact
+
+When I'm not decoding datasets, I'm out on adventure treks or lost in fictional worlds. I live for the thrill of real and imaginary adventures!
+
+---
 
 Thanks for visiting! 😊
