@@ -1,15 +1,94 @@
-# 💫 About Me:
-Hi, I'm Shivam Aralikatti 👋<br><br>Welcome to my GitHub profile! I'm an AI Analyst and recent Electronics & Communication Engineering graduate passionate about solving real-world problems using data and machine learning.<br>💼 Current Focus<br><br>    AI & Data Science: Leveraging deep learning, NLP, and statistical modeling to solve campus-level and medical domain challenges.<br>    Data Analytics: Working on predictive analytics using biometric and mess data to improve campus operations.<br>    Applied Research: Publishing real-world solutions in academic venues like Springer (LNNS Series 2024).<br><br>🚀 Featured Projects<br><br>    EvalEdge: Modern Essay Evaluator<br>    Developed an AES model using Random Forest + GloVe embeddings with MAE of 1.40.<br>    Features include grammar checks, sentiment analysis, AI-text detection, and live dashboard – trained on 2,500+ essays.<br><br>    Endometrial Cancer Detection<br>    Built a VAE + CNN based pipeline to classify histopathological images with 87.3% accuracy, addressing class imbalance with SMOTE and cross-validation.<br><br>    Campus Operations Analytics<br>        Reduced food wastage by 65% by forecasting mess usage using time-series models.<br>        Analyzed 10,000+ biometric logs to optimize class schedules and predict academic risk.<br><br>    Social Media Regulatory Analysis<br>    Built a GNN-based NLP/CV system to classify 12,000+ posts, achieving 93.8% accuracy in detecting misinformation and harmful content.<br><br>    Deepfake Correction via 3D Face Reconstruction<br>    Designed a model to restore facial features from deepfake images using multi-view 2D data, recovering up to 40% authenticity.<br><br>📚 Learning & Certifications<br><br>    IBM AI Analyst<br>    Advanced SQL (HackerRank)<br>    Deep Learning & Big Data Analytics (NUS, AWS)<br>    Agile Project Management (Coursera)<br><br>📫 Connect With Me<br><br>    🌐 Portfolio: shivamaralikatti.netlify.app<br>    📧 Email: shivamaralikatti01@gmail.com<br>    💼 LinkedIn: linkedin.com/in/shivamaralikatti<br><br>🌟 Fun Fact<br><br>When I'm not decoding datasets, I'm out on adventure treks or lost in fictional worlds. I live for the thrill of real and imaginary adventures!<br><br>Thanks for visiting! 😊<br>
+# 💫 About Me
 
+Hi, I’m **Shivam Aralikatti** 👋  
+AI Analyst | ECE Graduate | NLP • CV • Time-Series • Applied ML
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamaralikatti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamaralikatti01@gmail.com) 
+I build end-to-end machine learning solutions that solve real-world problems—especially in **education workflows**, **campus operations**, and **health/medical AI**.
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+---
 
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=00C7B7)](https://shivamaralikatti.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShivamAralikatti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamaralikatti/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivamaralikatti01@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://shivamaralikatti.netlify.app/Shivam_s_Resume.pdf)
+
+---
+
+## 💼 Current Focus
+
+- **AI & Data Science:** Deep learning, NLP, statistical modeling for real-world systems  
+- **Data Analytics:** Predictive analytics using **biometric + mess usage** data to improve campus operations  
+- **Applied Research:** Publishing practical work in academic venues (Springer LNNS)
+
+---
+
+## 🚀 Featured Projects (with links)
+
+> You can find project write-ups on my **Portfolio** and code/work in my **GitHub repos**.
+
+- **EvalEdge — Modern Essay Evaluator**  
+  - Built an AES model using **Random Forest + GloVe**, achieving **MAE ~1.40**  
+  - Added grammar checks, sentiment analysis, AI-text detection, and a dashboard (2,500+ essays)  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/  
+  - 🔗 GitHub repos: https://github.com/ShivamAralikatti?tab=repositories
+
+- **Endometrial Cancer Detection (Histopathology)**  
+  - Two-stage **VAE + CNN** pipeline with **~87.3% accuracy**  
+  - Addressed imbalance using **SMOTE** + **K-Fold cross-validation**  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/  
+  - 🔗 GitHub repos: https://github.com/ShivamAralikatti?tab=repositories
+
+- **Campus Operations Analytics**  
+  - Forecasted mess usage with time-series modeling → **~65% food-wastage reduction**  
+  - Analyzed **10,000+ biometric logs** to optimize schedules & predict academic risk  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
+
+- **Regulatory Analysis of Online Social Media Platforms**  
+  - NLP/CV + OCR + graph approach to classify **12,000+ posts**  
+  - Achieved **~93.8%** accuracy for harmful/misinfo detection tasks  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
+
+- **Deepfake Correction via 3D Face Reconstruction**  
+  - Multi-view 2D → 3D reconstruction to restore facial features  
+  - Reported **up to ~40% authenticity recovery**  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
+
+---
+
+## 📄 Publications
+
+- **Springer LNNS (ICSCSP 2024):** *Unveiling Smoking Behavior Dynamics Through Graph Neural Network Analysis*  
+  🔗 https://link.springer.com/chapter/10.1007/978-981-96-0924-6_44
+
+---
+
+## 📚 Learning & Certifications (verified links)
+
+- **IBM AI Analyst (IBM Career Education Program)**  
+  🔗 https://courses.ibmcep.cognitiveclass.ai/certificates/0515515389124964bab483743a66ad5b
+
+- **HackerRank — SQL (Advanced)**  
+  🔗 https://www.hackerrank.com/certificates/89e9c7c47a06
+
+- **NUS — Data Analytics using Deep Learning (Drive)**  
+  🔗 https://drive.google.com/file/d/1_SqGZVaLpH9o9eM8BLK3iKInN9z6bsAu/view
+
+- **AWS — Data Analytics using Big Data (Drive)**  
+  🔗 https://drive.google.com/file/d/1GcTOhzsW7xCGxnwt2xw-o9CyLFpytkPq/view
+
+- **Coursera — Agile Project Management (verification link)**  
+  🔗 https://www.coursera.org/account/accomplishments/verify/FSO0KTJNL5QA
+
+---
+
+## 🌟 Fun Fact
+
+When I’m not decoding datasets, I’m out on adventure treks or lost in fictional worlds. 🗺️📚
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
