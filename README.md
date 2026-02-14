@@ -36,68 +36,62 @@ I build practical ML systems—from predictive analytics for campus operations t
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 
 
-### 1) EvalEdge — Modern Essay Evaluator
-- **Goal:** Automated essay scoring + supporting insights (grammar, sentiment, AI-text signals).
-- **Approach:** Random Forest + **GloVe embeddings**, dashboard + analysis pipeline.
-- **Result:** **MAE = 1.40** on **2,500+** essays.
-- **Tech:** Python, NLP, scikit-learn, Streamlit/Plotly  
-- **Links:** Repo: *(add link)* | Demo: *(add link)*
+> You can find project write-ups on my **Portfolio** and code/work in my **GitHub repos**.
 
----
+- **EvalEdge — Modern Essay Evaluator**  
+  - Built an AES model using **Random Forest + GloVe**, achieving **MAE ~1.40**  
+  - Added grammar checks, sentiment analysis, AI-text detection, and a dashboard (2,500+ essays)  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/  
+  - 🔗 GitHub repos: https://github.com/ShivamAralikatti?tab=repositories
 
-### 2) Endometrial Cancer Detection (Histopathology)
-- **Goal:** Classify histopathological images with robust generalization under class imbalance.
-- **Approach:** **VAE + CNN** pipeline, imbalance handling with **SMOTE**, cross-validation.
-- **Result:** **87.3% accuracy**.
-- **Tech:** PyTorch/TensorFlow, OpenCV, NumPy, Pandas  
-- **Links:** Repo: *(add link)* | Paper/Poster: *(add link)*
+- **Endometrial Cancer Detection (Histopathology)**  
+  - Two-stage **VAE + CNN** pipeline with **~87.3% accuracy**  
+  - Addressed imbalance using **SMOTE** + **K-Fold cross-validation**  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/  
+  - 🔗 GitHub repos: https://github.com/ShivamAralikatti?tab=repositories
 
----
+- **Campus Operations Analytics**  
+  - Forecasted mess usage with time-series modeling → **~65% food-wastage reduction**  
+  - Analyzed **10,000+ biometric logs** to optimize schedules & predict academic risk  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
 
-### 3) Campus Operations Analytics
-- **Goal:** Improve operational efficiency using forecasting + behavioral signals.
-- **Work:**
-  - Forecasted mess usage to reduce food wastage by **65%** (time-series models).
-  - Processed **10,000+** biometric logs to optimize schedules and predict academic risk.
-- **Tech:** Python, SQL, Pandas, scikit-learn, Plotly  
-- **Links:** Repo: *(add link)* | Case Study: *(add link)*
+- **Regulatory Analysis of Online Social Media Platforms**  
+  - NLP/CV + OCR + graph approach to classify **12,000+ posts**  
+  - Achieved **~93.8%** accuracy for harmful/misinfo detection tasks  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
 
----
-
-### 4) Social Media Regulatory Analysis (NLP/CV + Graph)
-- **Goal:** Classify posts for misinformation & harmful content at scale.
-- **Approach:** GNN-based multi-modal NLP/CV system.
-- **Result:** **93.8% accuracy** on **12,000+** posts.
-- **Tech:** Deep Learning, NLP, CV, Graph methods  
-- **Links:** Repo: *(add link)* | Report: *(add link)*
-
----
-
-### 5) Deepfake Correction via 3D Face Reconstruction
-- **Goal:** Restore facial features from deepfake images using multi-view 2D signals.
-- **Approach:** Multi-view reconstruction pipeline (2D → 3D cues).
-- **Result:** Recovered up to **40% authenticity** *(define metric in your repo/readme for clarity)*.
-- **Tech:** CV, Deep Learning, 3D concepts, OpenCV  
-- **Links:** Repo: *(add link)* | Demo: *(add link)*
+- **Deepfake Correction via 3D Face Reconstruction**  
+  - Multi-view 2D → 3D reconstruction to restore facial features  
+  - Reported **up to ~40% authenticity recovery**  
+  - 🔗 Portfolio: https://shivamaralikatti.netlify.app/
 
 ---
 
 ## 📄 Publications
 
-- **Springer — LNNS Series (2024):** *(Add paper title + link here)*
+- **Springer LNNS (ICSCSP 2024):** *Unveiling Smoking Behavior Dynamics Through Graph Neural Network Analysis*  
+  🔗 https://link.springer.com/chapter/10.1007/978-981-96-0924-6_44
 
 ---
 
-## 📚 Learning & Certifications
+## 📚 Learning & Certifications (verified links)
 
-- IBM **AI Analyst**
-- Advanced **SQL** (HackerRank)
-- Deep Learning & Big Data Analytics (**NUS**, AWS)
-- Agile Project Management (Coursera)
+- **IBM AI Analyst (IBM Career Education Program)**  
+  🔗 https://courses.ibmcep.cognitiveclass.ai/certificates/0515515389124964bab483743a66ad5b
 
----
+- **HackerRank — SQL (Advanced)**  
+  🔗 https://www.hackerrank.com/certificates/89e9c7c47a06
+
+- **NUS — Data Analytics using Deep Learning (Drive)**  
+  🔗 https://drive.google.com/file/d/1_SqGZVaLpH9o9eM8BLK3iKInN9z6bsAu/view
+
+- **AWS — Data Analytics using Big Data (Drive)**  
+  🔗 https://drive.google.com/file/d/1GcTOhzsW7xCGxnwt2xw-o9CyLFpytkPq/view
+
+- **Coursera — Agile Project Management (verification link)**  
+  🔗 https://www.coursera.org/account/accomplishments/verify/FSO0KTJNL5QA
 
 ## 💻 Tech Stack
 
