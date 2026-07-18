@@ -1,18 +1,11 @@
-<div align="center">
+<!--
+README.md — Shivam Aralikatti
+Tip: Replace placeholder repo/demo/paper links with your actual URLs.
+-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/shivam_terminal_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/shivam_terminal_light.svg">
-  <img src="./assets/shivam_terminal_light.svg" alt="Shivam Aralikatti terminal-style profile with ASCII portrait" width="100%">
-</picture>
+# Hi, I'm Shivam Aralikatti 👋
 
-<br>
-
-<a href="https://shivamaralikatti.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/shivamaralikatti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:shivamaralikatti01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-
-</div>
+**AI Analyst | Data Science • Deep Learning • NLP | Electronics & Communication Engineering Graduate**
 
 I build practical ML systems—from predictive analytics for campus operations to medical imaging and content safety—focused on measurable outcomes and clean, reproducible workflows.
 
@@ -24,6 +17,14 @@ I build practical ML systems—from predictive analytics for campus operations t
 - Built an endometrial cancer histopathology classifier achieving **87.3%** accuracy (VAE + CNN pipeline).
 - Analyzed **10,000+** biometric logs to optimize schedules and predict academic risk.
 - Developed an automated essay scoring system with **MAE = 1.40** on **2,500+** essays.
+
+---
+
+## 🌐 Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shivamaralikatti.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamaralikatti/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivamaralikatti01@gmail.com)
 
 ---
 
@@ -141,3 +142,14 @@ I build practical ML systems—from predictive analytics for campus operations t
 ## 🌟 Fun Fact
 
 When I’m not decoding datasets, I’m usually out on adventure treks or lost in fictional worlds—thrilled by real and imaginary adventures.
+
+---
+
+<!-- Optional: GitHub stats (uncomment if you want) -->
+<!--
+## 📈 GitHub Stats
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+-->
+
+<!-- Tip: Pin your best 4–6 repos on your GitHub profile to match the "Featured Projects" section above. -->
